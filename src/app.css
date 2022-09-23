@@ -1,0 +1,9 @@
+.shopnow:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.register:hover{
+    font-size: 15px;
+    font-weight: 400;
+}
